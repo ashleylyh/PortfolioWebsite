@@ -1,3 +1,6 @@
+push the changes to the main branch
+run: npm run deploy // it will deploy the changes to the gh-pages branch
+
 <p align="center"> 
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
